@@ -1,0 +1,2 @@
+image_name shebei_type power_sys gongdian jiekou rongyu system_num image_num version page_num
+低流量风机011ZV 离心式风机 EEC Y MT2_1 A YVMO 1418YVMOYKS62013 B 013_1

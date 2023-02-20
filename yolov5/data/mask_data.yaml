@@ -1,0 +1,6 @@
+train: /home/jsjlab/bai/yolov5/sorce/images/train
+val: /home/jsjlab/bai/yolov5/sorce/images/val
+
+nc: 4
+
+names: ['and','or','not']
